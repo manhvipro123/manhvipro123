@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manhvipro123
-- 👀 I’m interested in reading
+- 👀 I’m interested in reading,singing and coding :v
 - 🌱 I’m currently learning in HoaSen University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
