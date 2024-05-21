@@ -3,7 +3,7 @@
     <br>
     -->Xin chào, Tôi tên Mạnh!👋
     <br>
-    --> こんにちは, 骨川　と　よんで　ください!👋.　　
+    --> こんにちは, ホネカワ　と　よんで　ください!👋.　　
     <br>
     <img src="https://github.com/manhvipro123/manhvipro123/assets/88925958/b15e5de9-1b9e-431a-9b97-d69d379b6047"/>
   </h1>
