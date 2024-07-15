@@ -26,7 +26,7 @@
     self.school = "HSU 🐘"
     self.pronouns = "he/him"
     self.hobbies = ["badminton", "programming", "music", "workout"]
-    self.programming_languages = ["Python", "TypeScript", "JavaScript", "Dart","Java","C/C++","Kotlint"]
+    self.programming_languages = ["Python", "TypeScript", "JavaScript", "Dart","Java","C/C++","Kotlin"]
 ```
 
  <h2>📈 Github Stats</h2>
