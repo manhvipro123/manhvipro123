@@ -8,7 +8,7 @@
     <img src="https://github.com/manhvipro123/manhvipro123/assets/88925958/b15e5de9-1b9e-431a-9b97-d69d379b6047"/>
   </h1>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kmywnpdgolx6hjabjhis27donq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+![https://spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com/api/view?uid=31kmywnpdgolx6hjabjhis27donq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ducmanh1810)
 &nbsp;
