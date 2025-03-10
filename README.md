@@ -16,14 +16,13 @@
 
 ![](https://komarev.com/ghpvc/?username=manhvipro123&base=1000&color=brightgreen&label=HANDSOME+POINT)
 <p>
-  👨 My name is Manh, it's my Vietnamese's name but you can call me Honekawa in Japanese or Morningstar in English anw 😁. I just graduated with a degree in Information Technology at Hoa Sen University. Currently, I want to continue studying and working to develop in the field of software development.
+  👨 My name is Manh, it's my Vietnamese's name but you can call me Honekawa in Japanese or M in English anw 😁. Currently i'm studying Master Degree of Computer Science at Ho Chi Minh City University of Technology as well as to learn and do more new things in tech 🔥🔥🔥
 </p>
 
 ```Python
  class Morningstar_Megistus:
   def __init__(self):
     self.class = 2024
-    self.school = "HSU 🐘"
     self.pronouns = "he/him"
     self.hobbies = ["badminton", "programming", "music", "workout"]
     self.programming_languages = ["Python", "TypeScript", "JavaScript", "Dart","Java","C/C++","Kotlin"]
