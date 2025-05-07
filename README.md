@@ -22,10 +22,10 @@
 ```Python
  class Morningstar_Megistus:
   def __init__(self):
-    self.class = 2024
+    self.class = 2025
     self.pronouns = "he/him"
-    self.hobbies = ["badminton", "programming", "music", "workout"]
-    self.programming_languages = ["Python", "TypeScript", "JavaScript", "Dart","Java","C/C++","Kotlin"]
+    self.hobbies = ["badminton", "programming", "music", "workout","reading"]
+    self.programming_languages = ["Python", "TypeScript", "JavaScript", "Dart","Java","C/C++","Kotlin","Swift","Go"]
 ```
 
  <h2>📈 Github Stats</h2>
