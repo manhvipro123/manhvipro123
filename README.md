@@ -22,7 +22,7 @@
 ```Python
  class Morningstar_Megistus:
   def __init__(self):
-    self.class = 2025
+    self.class = 2026
     self.pronouns = "he/him"
     self.hobbies = ["badminton", "programming", "music", "workout","reading"]
     self.programming_languages = ["Python", "TypeScript", "JavaScript", "Dart","Java","C/C++","Kotlin","Swift","Go"]
@@ -53,7 +53,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring_boot/spring_boot.png"></code>
 
 
 
